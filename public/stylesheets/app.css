@@ -1,0 +1,13 @@
+body{
+    background: #F0F2F0 fixed;
+background: -webkit-linear-gradient(to bottom, #F0F2F0, #000C40) fixed;
+background: linear-gradient(to bottom, #F0F2F0, #000C40 ) fixed;
+/*background: #bdc3c7 fixed; */
+/*background: -webkit-linear-gradient(to bottom, #2c3e50, #bdc3c7) fixed; */
+/*background: linear-gradient(to bottom, #2c3e50, #bdc3c7) fixed; */
+}
+
+.container.main{
+    margin-top: 7.0em;
+}
+
